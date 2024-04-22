@@ -68,21 +68,53 @@
 		8D6AFF212BCA6BEF004B42EF /* GHResearcher */ = {
 			isa = PBXGroup;
 			children = (
+				8D6AFF4B2BD716D6004B42EF /* Support */,
+				8D6AFF4A2BD7166E004B42EF /* Extension */,
+				8D6AFF492BD7163F004B42EF /* Costum Views */,
+				8D6AFF482BD715F2004B42EF /* Screens */,
+			);
+			path = GHResearcher;
+			sourceTree = "<group>";
+		};
+		8D6AFF482BD715F2004B42EF /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				8D6AFF362BCD43CE004B42EF /* SearchVC.swift */,
+				8D6AFF382BCD4425004B42EF /* FavoritesListVC.swift */,
+				8D6AFF3E2BD6FDC0004B42EF /* FollowerListVC.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		8D6AFF492BD7163F004B42EF /* Costum Views */ = {
+			isa = PBXGroup;
+			children = (
+				8D6AFF442BD70C3A004B42EF /* GFAlertVC.swift */,
+				8D6AFF3A2BCD4D3C004B42EF /* GFButton.swift */,
+				8D6AFF3C2BCD50B1004B42EF /* GFTextField.swift */,
+				8D6AFF402BD709F6004B42EF /* GFTitleLabel.swift */,
+				8D6AFF422BD70B7A004B42EF /* GFBodyLabel.swift */,
+			);
+			path = "Costum Views";
+			sourceTree = "<group>";
+		};
+		8D6AFF4A2BD7166E004B42EF /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				8D6AFF462BD712D4004B42EF /* UIViewController+Ext.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		8D6AFF4B2BD716D6004B42EF /* Support */ = {
+			isa = PBXGroup;
+			children = (
 				8D6AFF222BCA6BEF004B42EF /* AppDelegate.swift */,
 				8D6AFF242BCA6BEF004B42EF /* SceneDelegate.swift */,
 				8D6AFF2B2BCA6BF1004B42EF /* Assets.xcassets */,
 				8D6AFF302BCA6BF1004B42EF /* Info.plist */,
-				8D6AFF362BCD43CE004B42EF /* SearchVC.swift */,
-				8D6AFF382BCD4425004B42EF /* FavoritesListVC.swift */,
-				8D6AFF3A2BCD4D3C004B42EF /* GFButton.swift */,
-				8D6AFF3C2BCD50B1004B42EF /* GFTextField.swift */,
-				8D6AFF3E2BD6FDC0004B42EF /* FollowerListVC.swift */,
-				8D6AFF402BD709F6004B42EF /* GFTitleLabel.swift */,
-				8D6AFF422BD70B7A004B42EF /* GFBodyLabel.swift */,
-				8D6AFF442BD70C3A004B42EF /* GFAlertVC.swift */,
-				8D6AFF462BD712D4004B42EF /* UIViewController+Ext.swift */,
 			);
-			path = GHResearcher;
+			path = Support;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
