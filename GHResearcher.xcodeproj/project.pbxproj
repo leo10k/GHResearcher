@@ -57,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				8D6AFF212BCA6BEF004B42EF /* GHResearcher */,
-				8D6AFF4B2BD716D6004B42EF /* Support */,
 				8D6AFF202BCA6BEF004B42EF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -77,6 +76,8 @@
 				8D6AFF4A2BD7166E004B42EF /* Extension */,
 				8D6AFF492BD7163F004B42EF /* Costum Views */,
 				8D6AFF482BD715F2004B42EF /* Screens */,
+				8D6AFF4B2BD716D6004B42EF /* Support */,
+				8D6AFF302BCA6BF1004B42EF /* Info.plist */,
 			);
 			path = GHResearcher;
 			sourceTree = "<group>";
@@ -117,7 +118,6 @@
 				8D6AFF222BCA6BEF004B42EF /* AppDelegate.swift */,
 				8D6AFF242BCA6BEF004B42EF /* SceneDelegate.swift */,
 				8D6AFF2B2BCA6BF1004B42EF /* Assets.xcassets */,
-				8D6AFF302BCA6BF1004B42EF /* Info.plist */,
 			);
 			path = Support;
 			sourceTree = "<group>";
