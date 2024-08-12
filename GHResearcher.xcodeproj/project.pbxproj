@@ -25,6 +25,7 @@
 		8D6AFF562C657CD6004B42EF /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6AFF552C657CD6004B42EF /* ErrorMessage.swift */; };
 		8D6AFF592C6AA33A004B42EF /* FollowerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6AFF582C6AA33A004B42EF /* FollowerCell.swift */; };
 		8D6AFF5B2C6AA41A004B42EF /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6AFF5A2C6AA41A004B42EF /* GFAvatarImageView.swift */; };
+		8D6AFF5D2C6AB96A004B42EF /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6AFF5C2C6AB96A004B42EF /* UIHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		8D6AFF552C657CD6004B42EF /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 		8D6AFF582C6AA33A004B42EF /* FollowerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerCell.swift; sourceTree = "<group>"; };
 		8D6AFF5A2C6AA41A004B42EF /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
+		8D6AFF5C2C6AB96A004B42EF /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 			isa = PBXGroup;
 			children = (
 				8D6AFF552C657CD6004B42EF /* ErrorMessage.swift */,
+				8D6AFF5C2C6AB96A004B42EF /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				8D6AFF392BCD4425004B42EF /* FavoritesListVC.swift in Sources */,
 				8D6AFF3B2BCD4D3C004B42EF /* GFButton.swift in Sources */,
 				8D6AFF472BD712D4004B42EF /* UIViewController+Ext.swift in Sources */,
+				8D6AFF5D2C6AB96A004B42EF /* UIHelper.swift in Sources */,
 				8D6AFF5B2C6AA41A004B42EF /* GFAvatarImageView.swift in Sources */,
 				8D6AFF372BCD43CE004B42EF /* SearchVC.swift in Sources */,
 				8D6AFF452BD70C3A004B42EF /* GFAlertVC.swift in Sources */,
