@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  GHResearcher
 //
-//  Created by Leonardo Macedo on 08/08/24.
+//  Created by Leonardo Macedo on 26/09/24.
 //
 
 import Foundation
